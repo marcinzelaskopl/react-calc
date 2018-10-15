@@ -1,7 +1,6 @@
 ## About
 
-> Project 
-is made with React.JS.
+> Calculator made with React.JS.
 > Basic math operations available.
 
 ## Live
