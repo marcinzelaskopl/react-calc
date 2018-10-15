@@ -11,6 +11,14 @@
     outline: 1px solid #888888;
 }
 
+.button-wrapper:hover {
+    cursor: pointer;
+}
+
+.button-wrapper:active {
+    transform: translateY(2px);
+}
+
 .operator {
     background-color: #fe9241;
     color: white;
